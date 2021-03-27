@@ -1,0 +1,29 @@
+Package: test.nano.pkg
+Name: nano
+Version: 2.2.6-6
+Architecture: iphone-os-arm
+Description: teeeeeest
+Maintainer: omar@test.test
+Author: omar@test.teest
+Section: Text_Editor
+Depends: test.ncurses.pkg
+Filename: debs/nano_2.2.6-6_iphoneos-arm.deb
+Size: 93,090
+MD5sum: fa46db041e78ef2c316ae8b1c404dddc
+SHA1: 0e776dae930c298a5e60f404db21bfb8700c3f23
+SHA256: dc4a3fb0a82a3cbbf0459b600c06adb64e5efb607f60a2996d8f66812a03f32c
+
+Package: test.ncurses.pkg 
+Name: ncurses
+Version: 5.7-15
+Architecture: iphone-os-arm
+Description: teeeeest
+Maintainer: omar@test.test
+Author: omar@test.teest
+Section: Lib
+Filename: debs/ncurses_5.7-15_iphoneos-arm.deb
+Size: 335,922
+MD5sum: 471aac7cdc242fc69430af8eabc2297a
+SHA1: 52624ce1d03c55b78c7fc745db61722316c36fc7
+SHA256: d8fa54475605a6c48c3b1647e936da4b11b5029890174c8cb19cc99b6216b3da
+
